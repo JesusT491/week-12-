@@ -76,9 +76,11 @@ print(0 != y > 10)
 
 # Use chained comparison to check if 3 < 4 < 5.
 
+print (3 < 4 < 5)
+
 if 3 < 4:
     if 4 < 5:
-        print('corrected expression')
+        print('chained ifs expression')
 
 # Challenge: Create a password rule using logical operators:
 
