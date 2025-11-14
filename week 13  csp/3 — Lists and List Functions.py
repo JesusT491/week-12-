@@ -92,13 +92,11 @@ list = sorted_list.reverse
 list.pop(3)
 print(list)
 
-#summary of list functions
+#SUMMARY OF LIST FUNCTIONS
 # .append(item) - adds an item to the end of the list
 # .pop(index) - removes and returns the item at the specificed index
 # .sort() - sorts the list in asecending order
 # .reverse() - reverses the order of the list
-
-
 
 # Examples:
 
